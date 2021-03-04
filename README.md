@@ -4,9 +4,9 @@
 
 # To complete: 
 
-* Name :
-* Student Id:
-* Email :
+* Name : Kevin Biewesch
+* Student Id: 0180556255
+* Email : kevin.biewesch.001@student.uni.lu
 
 ### Setting
 In this practical session, you will code a method to compute the cost of shopping basket and test it using JUnit.
@@ -42,3 +42,4 @@ Harry Potter books), giving as big a discount as possible.
 
 * [Junit Guide](http://junit.org/junit5/docs/current/user-guide/)
 * [Maven LifeCycle](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
+* [Maven in 5 Minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
